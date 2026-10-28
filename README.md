@@ -1,5 +1,5 @@
 <h1 align="center">Safa Öksüz</h1>
-<p align="center"><b>Veteran vibe coder. Solo founder. Escaped the Matrix of writing code by hand.</b></p>
+<p align="center"><b>Veteran vibe coder. Soloprenuer.</b></p>
 <p align="center">
   <a href="https://bilun.tech">bilun.tech</a> ·
   <a href="https://github.com/Safa675/bist-quant">bist-quant</a> ·
